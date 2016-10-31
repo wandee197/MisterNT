@@ -1,0 +1,10 @@
+Setup Atom 
+Debian Linux (Ubuntu)
+
+Atom is only available for 64-bit Linux systems.
+
+1. Download atom-amd64.deb from the Atom releases page.
+2. Run sudo dpkg --install atom-amd64.deb on the downloaded package.
+3. Launch Atom using the installed atom command.
+
+The Linux version does not currently automatically update so you will need to repeat these steps to upgrade to future releases.
